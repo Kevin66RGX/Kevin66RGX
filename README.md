@@ -2,7 +2,9 @@
   INSTRUCCIONES:
   1. En GitHub crea un repositorio PÚBLICO con el MISMO nombre que tu usuario.
   2. Marca "Add a README file" y pega este contenido.
-  3. Cambia TU_USUARIO (y TU_CORREO) por tus datos reales.
+  3. Sube el logo: en el repo crea la carpeta "assets" y sube dentro el archivo unipaz.png
+     (Add file > Upload files; escribe "assets/" antes del nombre para crear la carpeta).
+  4. Cambia TU_USUARIO (y TU_CORREO) por tus datos reales.
 -->
 
 <p align="center">
@@ -11,6 +13,18 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E23636&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingeniería+Informática+🕷️;Aprendiendo+Java+y+Git;IA+local+%7C+Arduino+%7C+ESP32;Barrancabermeja%2C+Colombia+🇨🇴" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="assets/unipaz.png" height="90" alt="UNIPAZ" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://flagcdn.com/w160/co.png" height="60" alt="Bandera de Colombia" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Barrancabermeja_(Santander).svg?width=160" height="60" alt="Bandera de Barrancabermeja" />
+</p>
+
+<p align="center">
+  <b>UNIPAZ</b> &nbsp;•&nbsp; <b>Colombia</b> &nbsp;•&nbsp; <b>Barrancabermeja</b>
 </p>
 
 <p align="center">
@@ -35,19 +49,22 @@
 
 <p>
   <img src="https://img.shields.io/badge/Boxeo-Fajador-E23636?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Música-Trap%20%26%20Urbano-1B2A6B?style=for-the-badge&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gaming-Siempre%20activo-E23636?style=for-the-badge&logo=gamejolt&logoColor=white" />
   <img src="https://img.shields.io/badge/Marvel-Daredevil%20%26%20Spider--Man-1B2A6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Trap%20%26%20Urbano-E23636?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
 
 ### 🥊 Boxeo
 Entrené boxeo con estilo **fajador**: corta distancia, presión constante, mucho **hook** y **cruzado de izquierda**. Es disciplina pura y me enseñó a no rendirme en el código tampoco.
 
-### 🎧 Música
-Vivo entre el **trap, el rap y lo urbano latino**. Programo con audífonos puestos y la lista de reproducción sonando: **Blessd, Kris R., Rauw Alejandro**.
+### 🎮 Gaming
 
-### 🎮 Videojuegos
-Me gusta competir y desconectarme: **Undisputed, PES, Cuphead, Minecraft, Fortnite** y lo que se cruce.
+<p>
+  🎮 &nbsp; 🕹️ &nbsp; 👾 &nbsp;
+  <img src="https://img.shields.io/badge/-Steam-1B2A6B?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Epic%20Games-E23636?style=for-the-badge&logo=epicgames&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PlayStation-1B2A6B?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Xbox-E23636?style=for-the-badge&logo=xbox&logoColor=white" />
+</p>
 
 ### 🕷️ Cultura pop
 Fan de **Marvel**: **Daredevil** de favorito y **Spider-Man** siempre en el centro. De ahí viene el tema de este perfil.
