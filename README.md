@@ -31,47 +31,26 @@
 
 ---
 
-## 🕷️ Mi stack
+## 🥊 Fuera del código
 
 <p>
-  <img src="https://img.shields.io/badge/Java-E23636?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-1B2A6B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-E23636?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-1B2A6B?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E23636?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-1B2A6B?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-E23636?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-1B2A6B?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Boxeo-Fajador-E23636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Música-Trap%20%26%20Urbano-1B2A6B?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gaming-Siempre%20activo-E23636?style=for-the-badge&logo=gamejolt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Marvel-Daredevil%20%26%20Spider--Man-1B2A6B?style=for-the-badge" />
 </p>
 
----
+### 🥊 Boxeo
+Entrené boxeo con estilo **fajador**: corta distancia, presión constante, mucho **hook** y **cruzado de izquierda**. Es disciplina pura y me enseñó a no rendirme en el código tampoco.
 
-## 🎯 Mi ruta de aprendizaje
+### 🎧 Música
+Vivo entre el **trap, el rap y lo urbano latino**. Programo con audífonos puestos y la lista de reproducción sonando: **Blessd, Kris R., Rauw Alejandro**.
 
-- [x] Lógica de programación con PSeInt
-- [ ] Java y programación orientada a objetos
-- [ ] Git y GitHub (commits, ramas, pull requests)
-- [ ] Mis primeros proyectos con ESP32 y Arduino
-- [ ] IA: primeros experimentos
+### 🎮 Videojuegos
+Me gusta competir y desconectarme: **Undisputed, PES, Cuphead, Minecraft, Fortnite** y lo que se cruce.
 
-> Voy marcando cada casilla a medida que avanzo.
-
----
-
-## 🚧 Proyectos (en construcción)
-
-| Proyecto | Qué es | Estado |
-|---|---|---|
-| 🕸️ _Mi primer proyecto en Java_ | _Aquí irá la descripción_ | 🔜 Próximamente |
-| 🕸️ _Mi primer proyecto con ESP32_ | _Aquí irá la descripción_ | 🔜 Próximamente |
-
-> Cuando subas uno, enlázalo así: `[Nombre](https://github.com/TU_USUARIO/nombre-repo)`
-
----
-
-## 🎮 Fuera del código
-
-🎮 Videojuegos · 🥊 Boxeo · 🎵 Música
+### 🕷️ Cultura pop
+Fan de **Marvel**: **Daredevil** de favorito y **Spider-Man** siempre en el centro. De ahí viene el tema de este perfil.
 
 ---
 
