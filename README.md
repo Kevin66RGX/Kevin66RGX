@@ -2,96 +2,101 @@
   INSTRUCCIONES:
   1. En GitHub crea un repositorio PÚBLICO con el MISMO nombre que tu usuario.
   2. Marca "Add a README file" y pega este contenido.
-  3. Sube el logo: en el repo crea la carpeta "assets" y sube dentro el archivo unipaz.png
-     (Add file > Upload files; escribe "assets/" antes del nombre para crear la carpeta).
-  4. Cambia TU_USUARIO (y TU_CORREO) por tus datos reales.
+  3. Sube tu foto: crea la carpeta "assets" y sube dentro "foto.png" (relación 1:1, ej. 400x400 px).
+  4. Cambia TU_USUARIO por tu usuario real de GitHub.
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,100:1B2A6B&height=180&section=header&text=Kevin%20Rojas&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Construyendo%20mi%20telara%C3%B1a%2C%20un%20commit%20a%20la%20vez&descSize=16&descAlignY=72" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E23636&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingeniería+Informática+🕷️;Aprendiendo+Java+y+Git;IA+local+%7C+Arduino+%7C+ESP32;Barrancabermeja%2C+Colombia+🇨🇴" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="assets/unipaz.png" height="90" alt="UNIPAZ" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://flagcdn.com/w160/co.png" height="60" alt="Bandera de Colombia" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Barrancabermeja_(Santander).svg?width=160" height="60" alt="Bandera de Barrancabermeja" />
-</p>
-
-<p align="center">
-  <b>UNIPAZ</b> &nbsp;•&nbsp; <b>Colombia</b> &nbsp;•&nbsp; <b>Barrancabermeja</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UNIPAZ-Ingeniería%20Informática-1B2A6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semestre-2-E23636?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Colombia-Barrancabermeja-1B2A6B?style=for-the-badge" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="assets/foto.png" width="120" height="120" alt="Kevin David Rojas" />
+    </td>
+    <td>
+      <h2>Kevin David Rojas</h2>
+      <a href="https://github.com/TU_USUARIO">@TU_USUARIO</a><br />
+      💻 Computer Engineering Student<br />
+      🇨🇴 Colombia · 2nd Semester
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🕸️ Sobre mí
+## 🧑‍💻 About me
 
-- 🎓 Curso **2.º semestre de Ingeniería Informática** en la **UNIPAZ**.
-- 📖 Empecé con lógica en **PSeInt** y ahora estoy con **Java** y **Git**.
-- 🤖 Me apasiona la **inteligencia artificial**.
-- 🔌 Me gusta crear con **Arduino** y **ESP32**.
-- 🚀 Este perfil arranca de cero: todo lo que verás aquí es nuevo.
+Hi! I'm a second-semester Computer Engineering student from Colombia interested in software development, artificial intelligence, cybersecurity, and electronics.
+
+I enjoy learning independently, experimenting with ideas, and building projects to understand how things work under the hood.
 
 ---
 
-## 🥊 Fuera del código
+## 🛠️ Tech & Interests
 
-<p>
-  <img src="https://img.shields.io/badge/Boxeo-Fajador-E23636?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Marvel-Daredevil%20%26%20Spider--Man-1B2A6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Trap%20%26%20Urbano-E23636?style=for-the-badge&logo=spotify&logoColor=white" />
-</p>
-
-### 🥊 Boxeo
-Entrené boxeo con estilo **fajador**: corta distancia, presión constante, mucho **hook** y **cruzado de izquierda**. Es disciplina pura y me enseñó a no rendirme en el código tampoco.
-
-### 🎮 Gaming
-
-<p>
-  🎮 &nbsp; 🕹️ &nbsp; 👾 &nbsp;
-  <img src="https://img.shields.io/badge/-Steam-1B2A6B?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Epic%20Games-E23636?style=for-the-badge&logo=epicgames&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PlayStation-1B2A6B?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Xbox-E23636?style=for-the-badge&logo=xbox&logoColor=white" />
-</p>
-
-### 🕷️ Cultura pop
-Fan de **Marvel**: **Daredevil** de favorito y **Spider-Man** siempre en el centro. De ahí viene el tema de este perfil.
+<table>
+  <tr>
+    <td width="70" align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" />
+    </td>
+    <td>
+      <b>Programming</b><br />
+      Java · PSeInt · Git<br />
+      <img src="https://img.shields.io/badge/Java-E23636?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-1B2A6B?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-E23636?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-1B2A6B?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-E23636?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-1B2A6B?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="70" align="center">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" alt="Arduino" />
+    </td>
+    <td>
+      <b>Electronics</b><br />
+      Arduino · ESP32<br />
+      <img src="https://img.shields.io/badge/Arduino-E23636?style=flat-square&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESP32-1B2A6B?style=flat-square&logo=espressif&logoColor=white" />
+      <img src="https://img.shields.io/badge/PlatformIO-E23636?style=flat-square&logo=platformio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-1B2A6B?style=flat-square&logo=raspberrypi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="70" align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="IA" />
+    </td>
+    <td>
+      <b>Artificial Intelligence & Cybersecurity</b><br />
+      Exploring intelligent systems, software, and computer security<br />
+      <img src="https://img.shields.io/badge/PyTorch-E23636?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-1B2A6B?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-E23636?style=flat-square&logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kali%20Linux-1B2A6B?style=flat-square&logo=kalilinux&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Estadísticas
+## 🕷️ Beyond the Code
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E23636&icon_color=4C6FFF&text_color=FFFFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA4B2" />
-</p>
+- 🥊 Boxing and athletic training.
+- 🧠 Science, philosophy, and critical thinking.
+- 🎮 Geek culture, comics, superheroes, and science fiction.
+- 🕸️ Spider-Man fan — science, creativity, and responsibility.
+- ⚡ Experimenting with technology and learning through personal projects.
 
 ---
 
-## 📫 Contacto
+## 🌱 Currently Learning
 
-<p>
-  <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-1B2A6B?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-E23636?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU_CORREO@gmail.com"><img src="https://img.shields.io/badge/Email-1B2A6B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+- Strengthening my Java and programming fundamentals.
+- Improving my Git workflow.
+- Exploring Arduino and ESP32 projects.
+- Building personal projects and expanding my technical skills.
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A6B,100:E23636&height=100&section=footer" />
+  <b>🚀 Always curious. Always building. Always learning.</b>
 </p>
