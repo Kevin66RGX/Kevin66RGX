@@ -1,21 +1,22 @@
 <!--
   INSTRUCCIONES:
-  1. En GitHub crea un repositorio PÚBLICO con el MISMO nombre que tu usuario.
-  2. Marca "Add a README file" y pega este contenido.
-  3. Sube tu foto: crea la carpeta "assets" y sube dentro "foto.png" (relación 1:1, ej. 400x400 px).
-  4. Cambia TU_USUARIO por tu usuario real de GitHub.
+  1. Repositorio PÚBLICO llamado Kevin66RGX (mismo nombre que tu usuario).
+  2. Pega este contenido en el README.md.
+  3. Sube tu foto como "foto.png" a la raíz del repo (relación 1:1, ej. 400x400 px).
 -->
 
 <table>
   <tr>
     <td>
-      <img src="assets/foto.png" width="120" height="120" alt="Kevin David Rojas" />
+      <img src="foto.png" width="120" height="120" alt="Kevin David Rojas" />
     </td>
     <td>
       <h2>Kevin David Rojas</h2>
-      <a href="https://github.com/TU_USUARIO">@TU_USUARIO</a><br />
+      <a href="https://github.com/Kevin66RGX">@Kevin66RGX</a><br />
       💻 Computer Engineering Student<br />
-      🇨🇴 Colombia · 2nd Semester
+      <img src="https://flagcdn.com/w80/co.png" height="16" alt="Colombia" />
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Barrancabermeja_(Santander).svg?width=80" height="16" alt="Barrancabermeja" />
+      Barrancabermeja, Colombia · 2nd Semester
     </td>
   </tr>
 </table>
@@ -39,13 +40,10 @@ I enjoy learning independently, experimenting with ideas, and building projects 
     </td>
     <td>
       <b>Programming</b><br />
-      Java · PSeInt · Git<br />
-      <img src="https://img.shields.io/badge/Java-E23636?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-1B2A6B?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-E23636?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-1B2A6B?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-E23636?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-1B2A6B?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/PSeInt-E23636?style=flat-square" />
+      <img src="https://img.shields.io/badge/Java-1B2A6B?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-E23636?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-1B2A6B?style=flat-square&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -54,11 +52,8 @@ I enjoy learning independently, experimenting with ideas, and building projects 
     </td>
     <td>
       <b>Electronics</b><br />
-      Arduino · ESP32<br />
       <img src="https://img.shields.io/badge/Arduino-E23636?style=flat-square&logo=arduino&logoColor=white" />
       <img src="https://img.shields.io/badge/ESP32-1B2A6B?style=flat-square&logo=espressif&logoColor=white" />
-      <img src="https://img.shields.io/badge/PlatformIO-E23636?style=flat-square&logo=platformio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Raspberry%20Pi-1B2A6B?style=flat-square&logo=raspberrypi&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -67,9 +62,6 @@ I enjoy learning independently, experimenting with ideas, and building projects 
     </td>
     <td>
       <b>Artificial Intelligence & Cybersecurity</b><br />
-      Exploring intelligent systems, software, and computer security<br />
-      <img src="https://img.shields.io/badge/PyTorch-E23636?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-1B2A6B?style=flat-square&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-E23636?style=flat-square&logo=linux&logoColor=white" />
       <img src="https://img.shields.io/badge/Kali%20Linux-1B2A6B?style=flat-square&logo=kalilinux&logoColor=white" />
     </td>
